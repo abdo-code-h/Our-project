@@ -1,1 +1,1 @@
-Commande ECHO activ‚e.
+print("Hello world") 
